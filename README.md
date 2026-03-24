@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 ## OUTPUT
-![Screenshot_20260209_161241_SensorListApp](https://github.com/user-attachments/assets/13460e14-fb88-4118-ad6a-61fd546049bb)
+<img src="https://github.com/user-attachments/assets/13460e14-fb88-4118-ad6a-61fd546049bb" width="300"/>
 
 
 
